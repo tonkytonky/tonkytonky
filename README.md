@@ -1,5 +1,5 @@
 ### 📌
-[Моё портфолио — решения некоторых интересных задач](https://github.com/tonkytonky-portfolio)
+[Решения некоторых интересных задач](https://github.com/tonkytonky-portfolio)
 
 <!--
 **tonkytonky/tonkytonky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
