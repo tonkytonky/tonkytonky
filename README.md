@@ -1,5 +1,6 @@
-### 📌
-[Решения некоторых интересных задач](https://github.com/tonkytonky-portfolio)
+Пишу на Python. Разрабатываю автоматические тесты для API и UI и иногда делаю фреймворки под них.
+
+Учусь общаться с ИИ-агентами (на самом деле использовать LLM в разработке), а также поднимать сервисы (на самом деле поддерживать в стабильном состоянии).
 
 <!--
 **tonkytonky/tonkytonky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
