@@ -2,7 +2,6 @@
 
 Учусь ускоряться при помощи LLM-агентов, а также администрировать среды и настраивать пайплайны.
 
-> [!abstract] 
 > Примеры кода / Interview Gists:
 > - Продвинутые темы из Python [python_advanced_gists](https://github.com/tonkytonky/python_advanced_gists)
 > - Создание и парсинг множества файлов в параллель [concurrency_demo](https://github.com/tonkytonky/concurrency_demo)
