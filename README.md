@@ -2,6 +2,8 @@
 
 Учусь ускоряться при помощи LLM-агентов, а также администрировать среды и настраивать пайплайны.
 
+Примеры кода: [Interview Gists](https://github.com/tonkytonky-interview-gists)
+
 <!--
 **tonkytonky/tonkytonky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
