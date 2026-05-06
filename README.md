@@ -1,8 +1,8 @@
-Пишу на Python. Разрабатываю автоматические тесты для API и UI и иногда делаю фреймворки под них.
+Пишу на Python. Разрабатываю автоматические тесты для API и UI, и иногда делаю фреймворки под них.
 
-Учусь ускоряться при помощи LLM-агентов, а также администрировать среды и настраивать пайплайны.
+Учусь ускоряться при помощи LLM-агентов, а также администрировать инфраструктуру как девопс.
 
-> **Примеры кода / Interview Gists**:
+> **Наброски для проектов**:
 > - Продвинутые темы из Python ([python_advanced_gists](https://github.com/tonkytonky/python_advanced_gists))
 > - Создание и парсинг множества файлов в параллель ([concurrency_demo](https://github.com/tonkytonky/concurrency_demo))
 > - Задания из онлайн курса "Python: основы и применение" на Stepik ([stepik_python2](https://github.com/tonkytonky/stepik_python2))
